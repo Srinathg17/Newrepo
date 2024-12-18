@@ -1,2 +1,2 @@
 # Newrepo
-This will ensure that I create a new repo
+I am editing the README file. Adding some more details about the project description.
